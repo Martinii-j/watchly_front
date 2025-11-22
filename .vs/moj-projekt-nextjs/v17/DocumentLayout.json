@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\auth\\register\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\auth\\register\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\auth\\login\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\auth\\login\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\auth\\authForm.module.css||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\auth\\authForm.module.css||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\components\\footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\components\\footer.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\footer.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\components\\header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\components\\header.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\header.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\movieList\\movieList.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\movieList\\movieList.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\movieList\\page.tsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\movieList\\page.tsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "movieList.module.css",
+              "DocumentMoniker": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\movieList\\movieList.module.css",
+              "RelativeDocumentMoniker": "app\\movieList\\movieList.module.css",
+              "ToolTip": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\movieList\\movieList.module.css",
+              "RelativeToolTip": "app\\movieList\\movieList.module.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-22T21:10:43.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\movieList\\page.tsx",
+              "RelativeDocumentMoniker": "app\\movieList\\page.tsx",
+              "ToolTip": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\movieList\\page.tsx",
+              "RelativeToolTip": "app\\movieList\\page.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-22T20:54:05.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "header.module.css",
+              "DocumentMoniker": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\components\\header.module.css",
+              "RelativeDocumentMoniker": "app\\components\\header.module.css",
+              "ToolTip": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\components\\header.module.css",
+              "RelativeToolTip": "app\\components\\header.module.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-22T19:05:03.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "header.tsx",
+              "DocumentMoniker": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\components\\header.tsx",
+              "RelativeDocumentMoniker": "app\\components\\header.tsx",
+              "ToolTip": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\components\\header.tsx",
+              "RelativeToolTip": "app\\components\\header.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-22T19:04:08.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\layout.tsx",
+              "RelativeDocumentMoniker": "app\\layout.tsx",
+              "ToolTip": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\layout.tsx",
+              "RelativeToolTip": "app\\layout.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-22T15:23:38.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "footer.module.css",
+              "DocumentMoniker": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\components\\footer.module.css",
+              "RelativeDocumentMoniker": "app\\components\\footer.module.css",
+              "ToolTip": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\components\\footer.module.css",
+              "RelativeToolTip": "app\\components\\footer.module.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-22T17:25:05.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "footer.tsx",
+              "DocumentMoniker": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\components\\footer.tsx",
+              "RelativeDocumentMoniker": "app\\components\\footer.tsx",
+              "ToolTip": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\components\\footer.tsx",
+              "RelativeToolTip": "app\\components\\footer.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-22T17:24:17.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "globals.css",
+              "DocumentMoniker": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\globals.css",
+              "RelativeDocumentMoniker": "app\\globals.css",
+              "ToolTip": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\globals.css",
+              "RelativeToolTip": "app\\globals.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-22T17:11:54.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "authForm.module.css",
+              "DocumentMoniker": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\auth\\authForm.module.css",
+              "RelativeDocumentMoniker": "app\\auth\\authForm.module.css",
+              "ToolTip": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\auth\\authForm.module.css",
+              "RelativeToolTip": "app\\auth\\authForm.module.css",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswCgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-22T16:07:12.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\auth\\login\\page.tsx",
+              "RelativeDocumentMoniker": "app\\auth\\login\\page.tsx",
+              "ToolTip": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\auth\\login\\page.tsx",
+              "RelativeToolTip": "app\\auth\\login\\page.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-22T15:39:00.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\auth\\register\\page.tsx",
+              "RelativeDocumentMoniker": "app\\auth\\register\\page.tsx",
+              "ToolTip": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\auth\\register\\page.tsx",
+              "RelativeToolTip": "app\\auth\\register\\page.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-22T15:38:32.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\page.tsx",
+              "RelativeDocumentMoniker": "app\\page.tsx",
+              "ToolTip": "C:\\Users\\marta\\Desktop\\STUDIA\\ROK III\\projekty zespolowe\\moj-projekt-nextjs\\app\\page.tsx",
+              "RelativeToolTip": "app\\page.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-22T15:22:54.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
