@@ -11,7 +11,7 @@ export default function Header() {
             </div>
 
             <nav className={styles.nav}>
-                <a href="/movies">Movies</a>
+                <a href="/movieList">Movies</a>
                 <a href="/reviews">Reviews</a>
                 <a href="/friends">Friends</a>
                 <a href="/my-ratings">My Ratings</a>
