@@ -1,8 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
 .footer {
-    background-color: #0B0B0B;
+    background-color: #0D0D0D;
     color: #fff;
     padding: 60px 80px 20px;
     font-family: 'Inter', sans-serif;
+    border-top: 1px solid #c4c4c4;
 }
 
 .footerContent {

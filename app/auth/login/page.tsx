@@ -9,7 +9,7 @@ export default function LoginPage() {
         
            
         <div className={styles.authContainer}>
-            <div className={styles.logoText}>WACHLY</div>
+            <Link href="/" className={styles.logoText}>WATCHLY</Link>
             <Image
                 src="/images/logo.png"
                 alt="Logo"

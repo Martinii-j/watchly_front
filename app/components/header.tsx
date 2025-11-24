@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from 'next/link'
 import styles from "./header.module.css";
 
 export default function Header() {
@@ -6,7 +7,7 @@ export default function Header() {
         <header className={styles.header}>
             <div className={styles.left}>
                 <Image src="/images/logo.png" alt="logo" width={40} height={40} />
-                <span className={styles.logoText}>WATCHLY</span>
+                <Link href="/" className={styles.logoText}>WATCHLY</Link>
             </div>
 
             <nav className={styles.nav}>
@@ -16,7 +17,7 @@ export default function Header() {
                 <a href="/my-ratings">My Ratings</a>
             </nav>
 
-            <button className={styles.signIn}>Sign in</button>
+            <Link href="/auth/login" className={styles.signIn}>Sign in</Link>
         </header>
     );
 }

@@ -1,7 +1,7 @@
-
+import './globals.css'
 export const metadata = {
-    title: 'Moja Aplikacja Next.js',
-    description: 'Stworzona z Next.js',
+    title: 'WATCHLY',
+    description: 'WATCH MOVIES AND RATE THEM',
 }
 
 
